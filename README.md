@@ -42,3 +42,6 @@ so we put those emails at the end of the queue. And if the system has been tryin
 to send the email since last 5 minutes but it has been failing, we need to prevent
 clogging up the queue so we remove it from the queue as and log the task timeout
 event.
+
+### OUTPUT
+![image](https://user-images.githubusercontent.com/24405247/105570869-c6078000-5d71-11eb-9fb2-acb8b52d6443.png)
